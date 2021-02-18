@@ -28,3 +28,17 @@ int i= 2;
 string b = "Ali";
 System.pringln("b" + i);
 
+public static void main(String[] args) 
+{ 
+
+int a, b, c 
+string Truth = Kyle Reeves is the #1 Silly boy 
+
+a= 13 
+b= 12 
+
+answer = b-a; 
+
+System.out.println(Truth +$"{answer}"); 
+
+}
