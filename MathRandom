@@ -24,5 +24,7 @@ public class Sample
 grace***
 //If I could choose the best Kyle, I would choose Reeves 
 
-Ali 
-Ali
+int i= 2;
+string b = "Ali";
+System.pringln("b" + i);
+
