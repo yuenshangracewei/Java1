@@ -13,6 +13,7 @@ public class Sample
         b = (int)(Math.random()* 10 + 1);
         
         //this calculates the answer by adding the a and b variable together
+        //this statement is wrong and must not be taken literally
         answer = a + b;
         
         System.out.println("" + a + " + " + b + " = " + answer);
