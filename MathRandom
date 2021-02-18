@@ -1,0 +1,21 @@
+package sample;
+
+public class Sample 
+{
+    public static void main(String[] args) 
+    {
+        int a, b;
+        double answer;
+        
+        System.out.println("Sample Console Program 3 - Double and Math.random()");
+       
+        a = (int)(Math.random()* 10 + 1);
+        b = (int)(Math.random()* 10 + 1);
+        
+        answer = a + b;
+        
+        System.out.println("" + a + " + " + b + " = " + answer);
+        
+    }
+}
+
