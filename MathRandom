@@ -1,28 +1,30 @@
 package sample;
-
+// This code is adited by Mahdi Khan Baba
 public class Sample 
 {
     public static void main(String[] args) 
     {
-        int a, b;
+        int a, b, c;
         double answer;
         
         System.out.println("Sample Console Program 3 - Double and Math.random()");
        
         a = (int)(Math.random()* 10 + 1);
         b = (int)(Math.random()* 10 + 1);
-        
+        c = (int)(Math.random()* 11 + 1);
         //this calculates the answer by adding the a and b variable together
         //this statement is wrong and must not be taken literally
-        answer = a + b;
+        answer = a + b, c;
         
-        System.out.println("" + a + " + " + b + " = " + answer);
+        System.out.println("" + a + " + " + b + " + "+ c +" = " + answer);
         System.out.println("pi = 3.141592653589793238462643383");
     }
 }
 
 grace***
 //If I could choose the best Kyle, I would choose Reeves 
+Mahdi***
+//Do not dicriminate
 
 int i= 2;
 string b = "Ali";
@@ -31,11 +33,12 @@ System.pringln("b" + i);
 public static void main(String[] args) 
 { 
 
-int a, b, c 
+int a, b, c , d
 string Truth = Kyle Reeves is the #1 Silly boy 
 
 a= 13 
-b= 12 
+b= 12
+c = 14
 
 answer = b-a; 
 
